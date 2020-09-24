@@ -1,0 +1,7 @@
+Top 5 Documents :
+q_Id - DOC NO - Pekerjaan - SCORE
+1   -   143   -   Psychomotor retardation   -   2.4147334235777387
+1   -   21   -   Cleft palate   -   2.4147334235777387
+1   -   5   -   Mental retardation   -   2.4147334235777387
+1   -   77   -   Cleft lips   -   2.4147334235777387
+1   -   86   -   Retarded growth   -   2.4147334235777387
